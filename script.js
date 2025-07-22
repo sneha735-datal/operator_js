@@ -81,7 +81,7 @@ let z=4;
     let n5=50;
     let n6=40;
     {
-        console.log(n5>n4);
+        console.log(n5>n6);
     };
 
     // 12. What is the output?
@@ -151,5 +151,5 @@ let z=4;
    //console.log(y)
  
    let X1 = 5;
-   let Y1 = x++ + ++x;
+   let Y1 = X1++ + ++X1;
    console.log(Y1);
