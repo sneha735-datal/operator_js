@@ -58,9 +58,9 @@ function Vowelorconsonant(char) {
   
 
     if (char == 'a' || char == 'e' || char == 'i' || char == 'o' || char == 'u') {
-        return "vowel";
+        console.log ("vowel");
     } else {
-        return "consonant";
+        console.log ("consonant");
     }
 }
 console.log(Vowelorconsonant('p'));
