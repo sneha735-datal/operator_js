@@ -110,5 +110,5 @@ console.log(Vowelorconsonant('p'));
     let result1 = x && y;
     let result2 = x || y;
     {
-        console.log("result1(true),result2(false)");
+        console.log("result1,result2");
     }
